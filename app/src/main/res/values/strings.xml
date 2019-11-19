@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="fragment_his">Historic Sites</string>
+    <string name="fragment_o">Other</string>
+    <string name="fragment_r">Resteraunts</string>
+    <string name="fragment_h">Hotels</string>
+
+
+
+    <string name="hotel_1_name">The Suryaa New Delhi</string>
+    <string name="hotel_1_des">5-star hotel;
+        Relaxed rooms and suites in an upscale venue offering nightlife, 2 restaurants and a spa.
+</string>
+    <string name="hotel_1_rating">4.2/5</string>
+
+    <string name="hotel_2_name">The Legend Inn</string>
+    <string name="hotel_2_des">3-star hotel
+        Modern rooms and suites in a unique mountaineering-themed hotel with a lobby-set rock-climbing wall
+</string>
+    <string name="hotel_2_rating">4/5</string>
+
+    <string name="hotel_3_name">The LaLiT New Delhi</string>
+    <string name="hotel_3_des">5-star hotel
+        Sophisticated rooms and suites in a posh lodging featuring 6 eateries, a nightclub and a spa.
+</string>
+    <string name="hotel_3_rating">4.5/5</string>
+
+    <string name="hotel_4_name">The Leela Palace New Delhi</string>
+    <string name="hotel_4_des">5-star hotel
+        Posh hotel with fine dining, including renowned Le Cirque, plus a wellness spa and a rooftop pool.
+</string>
+    <string name="hotel_4_rating">4.6/5</string>
+
+    <string name="hotel_5_name">The Taj Mahal Hotel, New Delhi</string>
+    <string name="hotel_5_des">5-star hotel
+        Luxurious rooms and suites in an elegant hotel with 7 restaurants, a bar and a serene spa.
+</string>
+    <string name="hotel_5_rating">4.6/5</string>
+
+    <string name="hotel_6_name">JW Marriott Hotel New Delhi Aerocity</string>
+    <string name="hotel_6_des">5-star hotel
+        Contemporary pick offering 2 restaurants and a bar, plus an outdoor pool and a day spa.
+</string>
+    <string name="hotel_6_rating">4.5/5</string>
+
+    <string name="hotel_7_name">Maidens Hotel</string>
+    <string name="hotel_7_des">5-star hotel
+        Luxurious modern rooms with garden views, plus 2 restaurants, a bar and a pool in a historic hotel.
+</string>
+    <string name="hotel_7_rating">4.5/5</string>
+
+    <string name="hotel_8_name">The Lodhi</string>
+    <string name="hotel_8_des">5-star hotel
+        Elegant quarters with balconies and private plunge pools, plus 2 restaurants, a spa and a poolside cafe.
+</string>
+    <string name="hotel_8_rating">4.5/5</string>
+
+    <string name="hotel_9_name">Radisson Blu New Delhi Dwarka</string>
+    <string name="hotel_9_des">5-star hotel
+        Chic option offering 3 restaurants and a shopping mall, plus a wellness spa with an outdoor pool.
+</string>
+    <string name="hotel_9_rating">4.3/5</string>
+
+    <string name="hotel_10_name">The Ashok Hotel</string>
+    <string name="hotel_10_des">5-star hotel
+        Polished rooms and suites in a high-end hotel featuring a nightclub, a spa and 6 restaurants.
+</string>
+    <string name="hotel_10_rating">4.2/5</string>
+
+
+    <string name="rest_1_name">Tourist Janpath</string>
+    <string name="rest_1_des">Scindia House, Connaught Place, Central Delhi;
+        Cost for two₹2000 (approx);
+        Cuisine: Multi-Cuisine, American, Asian, Continental, North Indian</string>
+    <string name="rest_1_rating">4.2/5</string>
+
+    <string name="rest_2_name">Tales n Spirits</string>
+    <string name="rest_2_des">Connaught Place, Central Delhi;
+        Cost for two₹1500 (approx);
+        Cuisine: Multi-Cuisine, Chinese, Finger Food, North Indian
+</string>
+    <string name="rest_2_rating">4.2/5</string>
+
+    <string name="rest_3_name">Warehouse Cafe</string>
+    <string name="rest_3_des">Connaught Place, Central Delhi;
+        Cost for two₹1500 (approx);
+        Cuisine: Multi-Cuisine, North Indian, Italian, Chinese, Continental, American
+</string>
+    <string name="rest_3_rating">4.2/5</string>
+
+    <string name="rest_4_name">ERA - Bar and Loungen</string>
+    <string name="rest_4_des">Connaught Place, Central Delhi;
+        Cost for two₹1600 (approx);
+        Cuisine: Multi-Cuisine, North Indian, Italian, Chinese, America</string>
+    <string name="rest_4_rating">4.4/5</string>
+
+    <string name="rest_5_name">Local</string>
+    <string name="rest_5_des">Scindia House, Connaught Place, Central Delhi;
+        Cost for two₹1800 (approx);
+        Cuisine: North Indian, Continental
+</string>
+    <string name="rest_5_rating">4.1/5</string>
+
+    <string name="rest_6_name">The Junkyard Cafe</string>
+    <string name="rest_6_des">Connaught Place, Central Delhi;
+        Cost for two₹1800 (approx);
+        Cuisine: North Indian, Mediterranean, Asian, Italian, Oriental
+</string>
+    <string name="rest_6_rating">4.2/5</string>
+
+    <string name="rest_7_name">Odeon Social</string>
+    <string name="rest_7_des">Odeon Building, Connaught Place, Central Delhi;
+        Cost for two₹1500 (approx);
+        Cuisine: American, Continental, North Indian, Asian</string>
+    <string name="rest_7_rating">4.3/5</string>
+
+    <string name="rest_8_name">Garam Dharam</string>
+    <string name="rest_8_des">Connaught Place, Central Delhi;
+        Cost for two₹1500 (approx);
+        Cuisine:North Indian</string>
+    <string name="rest_8_rating">4/5</string>
+
+    <string name="rest_9_name">Mother India</string>
+    <string name="rest_9_des">Connaught Place, Central Delhi;
+        Cost for two₹1500 (approx);
+        Cuisine: North Indian, South Indian, Mughlai, Bengali</string>
+    <string name="rest_9_rating">4.1/5</string>
+
+    <string name="rest_10_name">Tamasha</string>
+    <string name="rest_10_des">Connaught Place, Central Delhi;
+        Cost for two₹2000 (approx);
+        Cuisine: Finger Food, Continental, Italian, North Indian
+    </string>
+    <string name="rest_10_rating">4.3/5</string>
+
+
+    <string name="his_1_name">Red Fort</string>
+    <string name="his_1_des">Opposite Chandni Chowk, Old Delhi.
+         How to Reach- Buses or Delhi Metro are frequently available
+         Opening Hours: 9 a.m. to 6 p.m. and Closed on Mondays.</string>
+    <string name="his_1_rating">4.2/5</string>
+
+    <string name="his_2_name">Qutub Minar</string>
+    <string name="his_2_des">Mehrauli, south New Delhi
+        How to Reach- Buses or Delhi Metro are frequently available
+        Opening Hours: Sunrise to sunset.
+</string>
+    <string name="his_2_rating">4.2/5</string>
+
+    <string name="his_3_name">India Gate</string>
+    <string name="his_3_des">Rajpath, near Connaught Place, New Delhi
+        Entry Cost: Free
+        How to Reach- Buses or Delhi Metro are frequently available
+        Opening Hours: Always open.
+</string>
+    <string name="his_3_rating">4.2/5</string>
+
+    <string name="his_4_name">Humayuns Tomb</string>
+    <string name="his_4_des">Nizamuddin East, New Delhi
+        Opening Hours: Sunrise to sunset
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_4_rating">4.4/5</string>
+
+    <string name="his_5_name">Jantar Mantar</string>
+    <string name="his_5_des">Sansad Marg, Connaught Place
+        Opening Hours: 6 am to 6 pm
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_5_rating">4.1/5</string>
+
+    <string name="his_6_name">Jama Masjid</string>
+    <string name="his_6_des">Opposite Chandni Chowk, Old Delhi
+        Opening Hours: Sunrise to Sunset
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_6_rating">4.2/5</string>
+
+    <string name="his_7_name">Purana Kila</string>
+    <string name="his_7_des">Mathura Rd, New Delhi
+        Opening Hours: 7 am to 5 pm
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_7_rating">4.3/5</string>
+
+    <string name="his_8_name">Lodi Tomb</string>
+    <string name="his_8_des">Nizamuddin East, New Delhi
+        Opening Hours: 6 am to 8 p.m Monday
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_8_rating">4/5</string>
+
+    <string name="his_9_name">Akshardhama Temple</string>
+    <string name="his_9_des">N.H.24|Near Noida Mor, New Delhi
+        Opening Hours: 9.30 a.m to 6.30 p.m
+        How to Reach- Buses or Delhi Metro are frequently available</string>
+    <string name="his_9_rating">4.1/5</string>
+
+    <string name="his_10_name">Lotus Temple</string>
+    <string name="his_10_des">Near Nehru Place,South New Delhi
+        How to Reach- Buses or Delhi Metro are frequently available
+        Opening Hours: 9.00 a.m. to 7pm</string>
+    <string name="his_10_rating">4.3/5</string>
+
+    <string name="ot_1_name">Fio and Magique, Garden of Five Senses</string>
+    <string name="ot_1_des"> </string>
+    <string name="ot_1_rating">4.2/5</string>
+
+    <string name="ot_2_name">A Walk Around Connaught Place</string>
+    <string name="ot_2_des"> </string>
+    <string name="ot_2_rating">4.5/5</string>
+
+    <string name="ot_3_name">Parthsarathy Rocks, JNU</string>
+    <string name="ot_3_des"> </string>
+    <string name="ot_3_rating">4/5</string>
+
+    <string name="ot_4_name"> The Fort, Deer Park and Boheme: Hauz Khas Village</string>
+    <string name="ot_4_des"> </string>
+    <string name="ot_4_rating">4.3/5</string>
+
+    <string name="ot_5_name">Paranthewali Gali, Chandni Chowk</string>
+    <string name="ot_5_des"></string>
+    <string name="ot_5_rating">4.4/5</string>
+
+    <string name="ot_6_name"> Indian Mountaineering Foundation, Moti Bagh</string>
+    <string name="ot_6_des"> </string>
+    <string name="ot_6_rating">4/5</string>
+
+    <string name="ot_7_name">Delhi Haat, INA</string>
+    <string name="ot_7_des"> </string>
+    <string name="ot_7_rating">4.4/5</string>
+
+    <string name="ot_8_name">Shootout Zone, Chattarpur</string>
+    <string name="ot_8_des"> </string>
+    <string name="ot_8_rating">4.1/5</string>
+
+    <string name="ot_9_name">Satya Niketan</string>
+    <string name="ot_9_des"> </string>
+    <string name="ot_9_rating">4.2/5</string>
+
+    <string name="ot_10_name">Murthal</string>
+    <string name="ot_10_des"> </string>
+    <string name="ot_10_rating">4.4/5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
